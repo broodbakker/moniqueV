@@ -1,5 +1,5 @@
 {
-  "name": "create-next-example-app",
+  "name": "cognovi",
   "scripts": {
     "dev": "next",
     "build": "next build && next export",

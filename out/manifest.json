@@ -1,14 +1,12 @@
 {
-  "short_name": "dvz",
-  "name": "cxvxcvcx",
-  "lang": "en",
-  "description": "xcv",
-  "start_url": "xcvxc",
-  "background_color": "#00aae7",
-  "theme_color": "#00aae7",
-  "dir": "ltr",
-  "display": "standalone",
-  "orientation": "natural",
+  "name": "Next.JS Progressive Web App",
+  "short_name": "Next PWA",
+  "theme_color": "#ffffff",
+  "background_color": "#004740",
+  "display": "fullscreen",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
   "icons": [
     {
       "src": "/android-icon-192x192-dunplab-manifest-39223.jpeg",
