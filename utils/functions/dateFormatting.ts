@@ -1,0 +1,1 @@
+export const isoDateToStandardDate = (isoDate: any) => isoDate.replace(/T.*/, '').split('-').reverse().join('-')
